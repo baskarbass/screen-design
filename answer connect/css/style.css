@@ -1,0 +1,73 @@
+.mail{
+	font-size: 17px;
+   text-align: center;
+    font-weight: 500;
+    margin-top: 45px;
+    color: #606060;
+}
+.heading{
+	font-size: 16px;
+    margin-top: 35px;
+   text-align: center;
+    font-weight: 300;
+    color: #434343;
+}
+.paragraph{
+	margin: 0 0 10px;
+    font-size: 16px;
+    margin-top: 40px;
+    color: #4b5f68;
+}
+.accept {
+    text-align: center;
+    color: #fff;
+    background-color: #55d4a7;
+    border-color: #55d4a7;
+    padding: 15px 135px;
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 15px;
+    border-radius: 10px;
+    border-bottom: none;
+    border-right: none;
+    outline: none;
+    cursor: pointer;
+}
+.accept:hover {
+    background-color: #ffffff;
+    border: 1px solid #55d4a7;
+    color: #55d4a7;
+}
+.decline {
+    background-color: #ffffff;
+    border: 1px solid red;
+    color:red;
+    margin: auto;
+    margin-top: 25px;
+    padding: 15px 135px;
+    border-radius: 10px;
+    margin-left: 15px;
+    cursor: pointer;
+    outline: none;
+}
+
+.decline:hover {
+    background-color:red;
+    border: 1px solid red;
+    color: #fff;
+}
+.footer-content h4{
+	margin: auto;
+    margin-top: 150px;
+	text-align: center;
+    
+    color:  #4b5f68;
+    cursor: pointer;
+}
+img {
+    display: block;
+    margin: auto;
+}
+.header{
+    margin-top: 70px;
+}
